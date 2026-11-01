@@ -1,6 +1,6 @@
 Hi. I work on backend and ML: Python, FastAPI, PyTorch, Hugging Face, vLLM, Postgres. Before that, ten years of PHP and Laravel.
 
-When I hit a bug in a library I use, I try to report it and send a fix. So far, as of 2026-09-16: 8 pull requests merged, 5 open, 16 issues filed, 8 of them resolved.
+When I hit a bug in a library I use, I try to report it and send a fix. So far, as of 2026-11-01: 12 pull requests merged, 2 open, 17 issues filed, 13 of them resolved.
 
 - **huggingface/transformers**: 4 merged, 4 open, 10 bug reports. Small bugs in model code, model loading and tokenizers.
 - **huggingface/peft**: 3 merged, 2 bug reports. Docs examples that did not run.
